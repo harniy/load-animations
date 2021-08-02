@@ -1,0 +1,26 @@
+@media screen and (max-width: 800px) {
+    .animation {
+        width: 30% !important;
+    }
+  }
+@media screen and (max-width: 500px) {
+    .animation {
+        width: 50% !important;
+    }
+    .navigation {
+        padding: 10px 0;
+    }
+    .navigation ul {
+        justify-content: center;
+    }
+    .doc__section img {
+        width: 100% !important;
+    }
+    .animations__section ul {
+        display: inline-block;
+        padding: 20px 0 !important;
+        width: 100%;
+        margin: 0 !important;
+        padding: 0;
+    }
+  }
